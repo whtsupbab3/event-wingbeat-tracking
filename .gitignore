@@ -1,0 +1,7 @@
+tracker/track
+__pycache__/
+*.pyc
+*.bin
+results*.md
+results*.json
+.DS_Store

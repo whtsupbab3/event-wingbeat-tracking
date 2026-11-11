@@ -1,0 +1,4 @@
+# Tested with Python 3.12, numpy 2.4.6, h5py 3.16.0, faery 0.7.0.
+numpy>=2.0
+h5py>=3.10   # ICTrap .h5 files
+faery>=0.7   # .aedat4 and other event formats
